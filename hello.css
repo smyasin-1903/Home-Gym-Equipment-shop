@@ -305,7 +305,6 @@ body {
 }
 
 .footer-head {
-
     padding: 20px 30px;
 }
 
@@ -363,8 +362,8 @@ footer {
 }
 
 .footer-contact {
-    border: 2px solid;
-    border-left: none;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
     padding: 6rem 8rem;
     width: 40%;
 }
